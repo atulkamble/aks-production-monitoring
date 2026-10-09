@@ -1,4 +1,4 @@
-# Project Title: Production-Grade Azure Kubernetes Service (AKS) Deployment with Terraform, Azure Managed Prometheus, Grafana, Azure Monitor, and Container Insights.
+#  Production-Grade Azure Kubernetes Service (AKS) Deployment with Terraform, Azure Managed Prometheus, Grafana, Azure Monitor, and Container Insights.
 
 # Launch Azure Kubernetes Service (AKS) with Production-Grade Monitoring
 
